@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+sitemap: http://ucll.exiga.be/aclaes/week7b/
